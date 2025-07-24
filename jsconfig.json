@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./*"]
+  }
+},
+"editor.codeActionsOnSave": {
+  "source.organizeImports": true,
+  "source.addMissingImports": true
+}
+}
+
